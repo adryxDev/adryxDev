@@ -1,5 +1,5 @@
 # 💫 About Me:
-👐 I’m looking for help with improving my TypeScript skills and writing cleaner code.  <br>🌱 I’m currently learning more about backend development and cloud deployment.  <br>💬 Ask me about building automation scripts with AHK or creating Roblox scripts with Luau.  <br>⚡ Fun fact: I started coding for fun until I got hooked.
+👐 I’m looking for help with improving my TypeScript skills and writing cleaner code.  <br>🌱 I’m currently learning more about backend development and cloud deployment.  <br>⚡ Fun fact: I started coding for fun until I got hooked.
 
 
 # 💻 Tech Stack:
